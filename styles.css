@@ -141,4 +141,14 @@ address {
   padding: 0.3em;
   margin-left: 469px
 }
+#wikisolo-enterprises {
+  position: fixed;
+  z-index: 1;
+  height: auto;
+  width: 429px;
+  margin-left: 20px;
+  margin-top: 750px
+}
+
+
 
